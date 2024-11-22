@@ -1,4 +1,4 @@
-# Discord-Raider-Pro
+# Tarm v8
 ![PictureLogo](https://i.ibb.co/khPHthN/discord-128-ico-removebg-preview.png)
 
 ## About
